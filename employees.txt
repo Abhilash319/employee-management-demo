@@ -1,2 +1,3 @@
 John
-Salary=6000
+<<<<<<< HEAD
+Salary=5500
